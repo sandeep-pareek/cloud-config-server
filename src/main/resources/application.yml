@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/sandeep-pareek/cloud-config-server
           default-label: main
           clone-on-start: true
